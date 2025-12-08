@@ -40,6 +40,10 @@
 				"LinuxArm64",
 				"Android"
 			]
+		},
+		{
+			"Name": "ImagePlate",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
